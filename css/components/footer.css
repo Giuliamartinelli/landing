@@ -1,0 +1,26 @@
+.bullet-points {
+  list-style: none;
+  padding: 0;
+  margin-block-start: 0em;
+}
+.social-items {
+  display: flex;
+  font-size: 40px;
+  margin: 16px;
+}
+.social-img{
+  background-color: white;
+  color: rgb(13, 85, 15, 0.9);
+  margin: 0 auto;
+}
+.social-img:hover {
+  background-color: white;
+  color: rgba(108, 216, 81, 0.4);
+}
+.links {
+  display: flex;
+  justify-content: center;
+}
+.footer {
+  margin: 2%;
+}

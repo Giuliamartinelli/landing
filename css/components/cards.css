@@ -1,0 +1,28 @@
+.cards {
+display: flex;
+justify-content: space-evenly;
+
+}
+.card img {
+  height: 80px;
+}
+.card {
+  display: block;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid rgb(230,230,230);
+  width: 274px;
+}
+.text-center {
+  text-align: center;
+  font-size: 32px;
+
+}
+.cards-container {
+  /*border-color: rgb(13, 85, 15, 0.2);
+  border-style: solid;*/
+  margin-top: 3px;
+  padding: 16px;
+}

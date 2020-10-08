@@ -1,0 +1,19 @@
+.banner {
+  background-image: url(../../images/coding_green.png);
+  height: 400px;
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+}
+/*.dollars {
+  display: flex;
+  align-items: center
+}*/
+.banner-container {
+  font-size: x-large;
+  text-shadow: 0 0 5px rgb(230,230,230, 0.4);
+  margin-left: 48px;
+}

@@ -1,0 +1,13 @@
+.btn-green {
+  background-color: rgb(13, 85, 15, 0.9);
+  color: white;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 0 auto;
+  /*margin-left: 0px;*/
+}
+.btn-green:hover {
+  background-color: rgba(108, 216, 81, 0.4);
+  color: white;
+  margin-top: 10px;
+}

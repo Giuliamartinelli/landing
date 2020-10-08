@@ -1,0 +1,36 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@600&family=IBM+Plex+Serif&family=Permanent+Marker&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@import url('components/banner.css');
+@import url('components/buttons.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+}
+
+h3, h4 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+}
+/* Custom design below! */
+h1 {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+p {
+  font-family: 'IBM Plex Serif', serif;
+}
+.container {
+}
+
